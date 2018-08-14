@@ -8,4 +8,4 @@
 
 • I reproduced the algorithm from the C code from https://gist.github.com/ChickenProp/3194723
 
-•The explanations on the above website are comprehensive. Also, the reason why I did not explain it again.
+•The explanations of the above website are comprehensive. Also, the reason why I did not explain it again.
