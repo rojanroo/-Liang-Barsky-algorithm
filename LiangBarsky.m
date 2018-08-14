@@ -1,3 +1,7 @@
+%%checking whether a line collides with a specific rectangle.
+%%p1 and p2 are the start and end point of the line both a vector containing x and y=> p1=[x1,y1] , p2=[x2,y2]
+%%rec vector contains the coordination of the button-left side of the rectangle and its width and height rec=[x, y, width, height]
+
 function nocollide= LiangBarsky(p1,p2,rec)
 dx = p2(1)-p1(1) * 1.0;
 dy = p2(2)-p1(2) * 1.0;
